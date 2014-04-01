@@ -1,0 +1,12 @@
+::res://::1396259559
+icon.png::ImageTexture::1395129201::
+net.scn::PackedScene::1396259556::
+soc.gd::GDScript::1396259559::
+sysData.gd::GDScript::1396259559::
+::res://modules::1395131972
+::res://modules/net::1396259559
+conn.gd::GDScript::1396259559::
+panel.gd::GDScript::1395386701::
+rpc.gd::GDScript::1393055416::
+sayhello.gd::GDScript::1393055416::
+socket.gd::GDScript::1395385854::
